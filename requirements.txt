@@ -1,0 +1,14 @@
+# AI
+httpx>=0.25.0
+
+# RPA
+watchdog>=3.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.4.0

@@ -1,0 +1,13 @@
+NOTA FISCAL ELETRONICA - NFS-e
+
+Prestador: Solutions Tech Informatica Ltda
+CNPJ: 98.765.432/0001-45
+Emissão: 10/07/2024
+Valor: R$ 3.200,50
+
+Discriminação:
+- Suporte técnico mensal
+- Hospedagem de sistemas
+- Backup em nuvem
+
+Tomador: Empresa ABC Ltda
